@@ -1,11 +1,15 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v1" resolutions="1x" timestamp="1506343461861">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v5" resolutions="1x" timestamp="1506426636229">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4126585124" ref="index"/>
+    <file name="master_a-master.css" crc="13768069" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="506603502" ref="index"/>
-    <file name="index.css" crc="301652633" ref="index"/>
-    <file name="nomq_index.css" crc="3836959668" ref="index"/>
+    <file name="index.css" crc="436351238" ref="index"/>
+    <file name="nomq_index.css" crc="3876224931" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="phone_1mbps_001.mp4" crc="259417465" seo="true" mt="1506339142000"/>
+    <file name="def_001.jpg" crc="348725017" seo="true" mt="1506087013000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -39,29 +43,23 @@
     <file name="_dsc4989.jpg" crc="479776797" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gradient_tonsser bg.jpg" crc="194616222" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u1573-4.png" crc="396392106" ref="index"/>
     <file name="u6634-4.png" crc="4273928247" ref="index"/>
     <file name="u6637-4.png" crc="3944012776" ref="index"/>
     <file name="u6640-4.png" crc="355923405" ref="index"/>
+    <file name="u6645-4.png" crc="3817221791" ref="index"/>
+    <file name="u6650-4.png" crc="172806598" ref="index"/>
+    <file name="u6652-4.png" crc="3841202689" ref="index"/>
     <file name="front1.png" crc="146756944" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="375x667_walkthough_8fps.gif" crc="176752866" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6645-4.png" crc="3817221791" ref="index"/>
-    <file name="u6650-4.png" crc="172806598" ref="index"/>
-    <file name="u6652-4.png" crc="3841202689" ref="index"/>
     <file name="226a5104.jpg" crc="155220724" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -147,8 +145,7 @@
     <file name="u1383-r.png" crc="296192025" ref="index"/>
     <file name="u1384.png" crc="3780066378" ref="index"/>
     <file name="u1384-r.png" crc="4274359884" ref="index"/>
-    <file name="_dsc4989-u1501-fr.jpg" crc="488428643" ref="index"/>
-    <file name="gradient_tonsser bg-u11226-fr.jpg" crc="457857096" ref="index"/>
+    <file name="_dsc4989-u1501-fr.jpg" crc="504995823" ref="index"/>
     <file name="u1573-42.png" crc="4262223002" ref="index"/>
     <file name="u6634-42.png" crc="4273928247" ref="index"/>
     <file name="u6637-42.png" crc="3944012776" ref="index"/>
@@ -156,8 +153,6 @@
     <file name="u6645-42.png" crc="3817221791" ref="index"/>
     <file name="u6650-42.png" crc="172806598" ref="index"/>
     <file name="u6652-42.png" crc="3841202689" ref="index"/>
-    <file name="226a5104-u6944-fr.jpg" crc="473074587" ref="index"/>
-    <file name="gradient_tonsser bg-u11294-fr.jpg" crc="4033646529" ref="index"/>
     <file name="u6974-42.png" crc="3864922087" ref="index"/>
     <file name="u6967-42.png" crc="3864922087" ref="index"/>
     <file name="u6957-42.png" crc="3864922087" ref="index"/>
@@ -175,7 +170,6 @@
     <file name="u7442-42.png" crc="3859391808" ref="index"/>
     <file name="u7443-42.png" crc="4155204559" ref="index"/>
     <file name="u7444-42.png" crc="3780724590" ref="index"/>
-    <file name="bg_test_001-u8086-fr.jpg" crc="93316262" ref="index"/>
     <file name="u1573-43.png" crc="283695971" ref="index"/>
     <file name="u6634-43.png" crc="4273928247" ref="index"/>
     <file name="u6637-43.png" crc="3944012776" ref="index"/>
@@ -183,8 +177,7 @@
     <file name="u6645-43.png" crc="3817221791" ref="index"/>
     <file name="u6650-43.png" crc="172806598" ref="index"/>
     <file name="u6652-43.png" crc="3841202689" ref="index"/>
-    <file name="226a5104-u6944-fr2.jpg" crc="4074161914" ref="index"/>
-    <file name="gradient_tonsser bg-u11294-fr2.jpg" crc="4185609744" ref="index"/>
+    <file name="226a5104-u6944-fr.jpg" crc="4203307168" ref="index"/>
     <file name="u6974-43.png" crc="3864922087" ref="index"/>
     <file name="u6967-43.png" crc="3864922087" ref="index"/>
     <file name="u6957-43.png" crc="3864922087" ref="index"/>
@@ -202,13 +195,10 @@
     <file name="u7443-43.png" crc="4155204559" ref="index"/>
     <file name="u7442-43.png" crc="3859391808" ref="index"/>
     <file name="u7444-43.png" crc="3780724590" ref="index"/>
-    <file name="bg_test_001-u8086-fr2.jpg" crc="270773129" ref="index"/>
-    <file name="gradient_tonsser bg-u11386-fr.jpg" crc="3874458708" ref="index"/>
     <file name="u8269-4.png" crc="4028112881" ref="index"/>
     <file name="u8265.png" crc="25984794" ref="index"/>
     <file name="u8265-a.png" crc="25984794" ref="index"/>
-    <file name="_dsc4989-u1501-fr2.jpg" crc="514208611" ref="index"/>
-    <file name="gradient_tonsser bg-u11226-fr2.jpg" crc="3975193645" ref="index"/>
+    <file name="_dsc4989-u1501-fr2.jpg" crc="190960565" ref="index"/>
     <file name="u1573-44.png" crc="4251119441" ref="index"/>
     <file name="u6634-44.png" crc="4273928247" ref="index"/>
     <file name="u6637-44.png" crc="3944012776" ref="index"/>
@@ -216,8 +206,6 @@
     <file name="u6645-44.png" crc="3817221791" ref="index"/>
     <file name="u6650-44.png" crc="172806598" ref="index"/>
     <file name="u6652-44.png" crc="3841202689" ref="index"/>
-    <file name="226a5104-u6944-fr3.jpg" crc="434182565" ref="index"/>
-    <file name="gradient_tonsser bg-u11294-fr3.jpg" crc="3781527592" ref="index"/>
     <file name="u6974-44.png" crc="4076280260" ref="index"/>
     <file name="u6967-44.png" crc="4076280260" ref="index"/>
     <file name="u6957-44.png" crc="4076280260" ref="index"/>
@@ -235,8 +223,6 @@
     <file name="u7442-44.png" crc="3859391808" ref="index"/>
     <file name="u7443-44.png" crc="4155204559" ref="index"/>
     <file name="u7444-44.png" crc="3780724590" ref="index"/>
-    <file name="bg_test_001-u8086-fr3.jpg" crc="3837271931" ref="index"/>
-    <file name="gradient_tonsser bg-u11386-fr2.jpg" crc="112108001" ref="index"/>
   </folder>
-  <file name="index.html" crc="3815364985" seo="true" mt="1506343206343" redirect="true"/>
+  <file name="index.html" crc="4038158560" seo="true" mt="1506426591042" redirect="true"/>
 </manifest>
