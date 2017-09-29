@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v9" resolutions="1x" timestamp="1506686512353">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v9" resolutions="1x" timestamp="1506688238963">
   <folder name="css">
-    <file name="site_global.css" crc="3760054287"/>
-    <file name="master_a-master.css" crc="4080166193" ref="index"/>
+    <file name="site_global.css" crc="4121137275"/>
+    <file name="master_a-master.css" crc="4019434579" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="4222919449" ref="index"/>
-    <file name="nomq_index.css" crc="3878096441" ref="index"/>
+    <file name="index.css" crc="535946237" ref="index"/>
+    <file name="nomq_index.css" crc="4227850663" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -87,14 +87,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12630.png" crc="463579662" ref="index"/>
-    <file name="u12630-a.png" crc="139163881" ref="index"/>
+    <file name="u12630.png" crc="390797010" ref="index"/>
+    <file name="u12630-a.png" crc="3781830347" ref="index"/>
     <file name="u12636.png" crc="388954437" ref="index"/>
     <file name="u12636-a.png" crc="365224846" ref="index"/>
-    <file name="u12634.png" crc="4042333236" ref="index"/>
-    <file name="u12634-a.png" crc="352852918" ref="index"/>
-    <file name="u12632.png" crc="3997005388" ref="index"/>
-    <file name="u12632-a.png" crc="3769086745" ref="index"/>
+    <file name="u12634.png" crc="363576466" ref="index"/>
+    <file name="u12634-a.png" crc="4040340017" ref="index"/>
+    <file name="u12632.png" crc="192137944" ref="index"/>
+    <file name="u12632-a.png" crc="3837570249" ref="index"/>
     <file name="clubs.jpg" crc="3957228988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -132,8 +132,8 @@
     <file name="u7226-a.png" crc="139163881" ref="index"/>
     <file name="u7224.png" crc="388954437" ref="index"/>
     <file name="u7224-a.png" crc="365224846" ref="index"/>
-    <file name="u7220.png" crc="4042333236" ref="index"/>
-    <file name="u7220-a.png" crc="352852918" ref="index"/>
+    <file name="u7220.png" crc="360921737" ref="index"/>
+    <file name="u7220-a.png" crc="446106220" ref="index"/>
     <file name="u7222.png" crc="3997005388" ref="index"/>
     <file name="u7222-a.png" crc="3769086745" ref="index"/>
     <file name="bg_test_001.jpg" crc="532882217" ref="index">
@@ -157,14 +157,14 @@
     <file name="u11262_states2.png" crc="287596572" ref="index"/>
     <file name="u11262_states-r2.png" crc="286770805" ref="index"/>
     <file name="u12615-42.png" crc="433520392" ref="index"/>
-    <file name="u126302.png" crc="463579662" ref="index"/>
-    <file name="u12630-a2.png" crc="139163881" ref="index"/>
+    <file name="u126302.png" crc="390797010" ref="index"/>
+    <file name="u12630-a2.png" crc="3781830347" ref="index"/>
     <file name="u126362.png" crc="388954437" ref="index"/>
     <file name="u12636-a2.png" crc="365224846" ref="index"/>
-    <file name="u126342.png" crc="390797010" ref="index"/>
-    <file name="u12634-a2.png" crc="3863630738" ref="index"/>
-    <file name="u126322.png" crc="3997005388" ref="index"/>
-    <file name="u12632-a2.png" crc="3769086745" ref="index"/>
+    <file name="u126342.png" crc="363576466" ref="index"/>
+    <file name="u12634-a2.png" crc="441656051" ref="index"/>
+    <file name="u126322.png" crc="192137944" ref="index"/>
+    <file name="u12632-a2.png" crc="3837570249" ref="index"/>
     <file name="u6978-42.png" crc="318754039" ref="index"/>
     <file name="u6974-42.png" crc="3864922087" ref="index"/>
     <file name="u6967-42.png" crc="3864922087" ref="index"/>
@@ -176,8 +176,8 @@
     <file name="u7226-a2.png" crc="139163881" ref="index"/>
     <file name="u72242.png" crc="388954437" ref="index"/>
     <file name="u7224-a2.png" crc="365224846" ref="index"/>
-    <file name="u72202.png" crc="390797010" ref="index"/>
-    <file name="u7220-a2.png" crc="3863630738" ref="index"/>
+    <file name="u72202.png" crc="4131738744" ref="index"/>
+    <file name="u7220-a2.png" crc="494734901" ref="index"/>
     <file name="u72222.png" crc="3997005388" ref="index"/>
     <file name="u7222-a2.png" crc="3769086745" ref="index"/>
     <file name="u8112-42.png" crc="4046278564" ref="index"/>
@@ -188,14 +188,14 @@
     <file name="u11262_states3.png" crc="287596572" ref="index"/>
     <file name="u11262_states-r3.png" crc="286770805" ref="index"/>
     <file name="u12615-43.png" crc="436891364" ref="index"/>
-    <file name="u126303.png" crc="463579662" ref="index"/>
-    <file name="u12630-a3.png" crc="139163881" ref="index"/>
+    <file name="u126303.png" crc="390797010" ref="index"/>
+    <file name="u12630-a3.png" crc="3781830347" ref="index"/>
     <file name="u126363.png" crc="388954437" ref="index"/>
     <file name="u12636-a3.png" crc="365224846" ref="index"/>
-    <file name="u126343.png" crc="390797010" ref="index"/>
-    <file name="u12634-a3.png" crc="3863630738" ref="index"/>
-    <file name="u126323.png" crc="3997005388" ref="index"/>
-    <file name="u12632-a3.png" crc="3769086745" ref="index"/>
+    <file name="u126343.png" crc="363576466" ref="index"/>
+    <file name="u12634-a3.png" crc="441656051" ref="index"/>
+    <file name="u126323.png" crc="192137944" ref="index"/>
+    <file name="u12632-a3.png" crc="3837570249" ref="index"/>
     <file name="226a5340-u6944-fr.jpg" crc="330326684" ref="index"/>
     <file name="u6978-43.png" crc="120444828" ref="index"/>
     <file name="u6974-43.png" crc="3864922087" ref="index"/>
@@ -208,8 +208,8 @@
     <file name="u7226-a3.png" crc="139163881" ref="index"/>
     <file name="u72243.png" crc="388954437" ref="index"/>
     <file name="u7224-a3.png" crc="365224846" ref="index"/>
-    <file name="u72203.png" crc="390797010" ref="index"/>
-    <file name="u7220-a3.png" crc="3863630738" ref="index"/>
+    <file name="u72203.png" crc="4131738744" ref="index"/>
+    <file name="u7220-a3.png" crc="494734901" ref="index"/>
     <file name="u72223.png" crc="3997005388" ref="index"/>
     <file name="u7222-a3.png" crc="3769086745" ref="index"/>
     <file name="u8112-43.png" crc="3883778646" ref="index"/>
@@ -221,14 +221,14 @@
     <file name="u11262_states4.png" crc="287596572" ref="index"/>
     <file name="u11262_states-r4.png" crc="286770805" ref="index"/>
     <file name="u12615-44.png" crc="4218620713" ref="index"/>
-    <file name="u126304.png" crc="463579662" ref="index"/>
-    <file name="u12630-a4.png" crc="139163881" ref="index"/>
+    <file name="u126304.png" crc="390797010" ref="index"/>
+    <file name="u12630-a4.png" crc="3781830347" ref="index"/>
     <file name="u126364.png" crc="388954437" ref="index"/>
     <file name="u12636-a4.png" crc="365224846" ref="index"/>
-    <file name="u126344.png" crc="390797010" ref="index"/>
-    <file name="u12634-a4.png" crc="3863630738" ref="index"/>
-    <file name="u126324.png" crc="3997005388" ref="index"/>
-    <file name="u12632-a4.png" crc="3769086745" ref="index"/>
+    <file name="u126344.png" crc="363576466" ref="index"/>
+    <file name="u12634-a4.png" crc="91661648" ref="index"/>
+    <file name="u126324.png" crc="192137944" ref="index"/>
+    <file name="u12632-a4.png" crc="3837570249" ref="index"/>
     <file name="clubs_mobile.jpg" crc="79974138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -243,8 +243,8 @@
     <file name="u7226-a4.png" crc="139163881" ref="index"/>
     <file name="u72244.png" crc="388954437" ref="index"/>
     <file name="u7224-a4.png" crc="365224846" ref="index"/>
-    <file name="u72204.png" crc="390797010" ref="index"/>
-    <file name="u7220-a4.png" crc="3863630738" ref="index"/>
+    <file name="u72204.png" crc="4131738744" ref="index"/>
+    <file name="u7220-a4.png" crc="494734901" ref="index"/>
     <file name="u72224.png" crc="3997005388" ref="index"/>
     <file name="u7222-a4.png" crc="3769086745" ref="index"/>
     <file name="u8112-44.png" crc="3889549921" ref="index"/>
@@ -271,5 +271,5 @@
     <file name="u13851-44.png" crc="340285489" ref="index"/>
     <file name="u13847-44.png" crc="144418858" ref="index"/>
   </folder>
-  <file name="index.html" crc="382522478" seo="true" mt="1506686468165" redirect="true"/>
+  <file name="index.html" crc="4125671202" seo="true" mt="1506688237756" redirect="true"/>
 </manifest>
