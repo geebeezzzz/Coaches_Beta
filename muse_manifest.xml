@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v9" resolutions="1x" timestamp="1506685836167">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v9" resolutions="1x" timestamp="1506686512353">
   <folder name="css">
     <file name="site_global.css" crc="3760054287"/>
     <file name="master_a-master.css" crc="4080166193" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="382749646" ref="index"/>
-    <file name="nomq_index.css" crc="462352951" ref="index"/>
+    <file name="index.css" crc="4222919449" ref="index"/>
+    <file name="nomq_index.css" crc="3878096441" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -271,5 +271,5 @@
     <file name="u13851-44.png" crc="340285489" ref="index"/>
     <file name="u13847-44.png" crc="144418858" ref="index"/>
   </folder>
-  <file name="index.html" crc="387829380" seo="true" mt="1506685799644" redirect="true"/>
+  <file name="index.html" crc="382522478" seo="true" mt="1506686468165" redirect="true"/>
 </manifest>
