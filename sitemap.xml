@@ -17,5 +17,8 @@
     <image:image>
       <image:loc>http://www.tonsser.com/coaches/v8/images/footer_mobile.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.tonsser.com/coaches/v8/images/clubs_mobile.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
