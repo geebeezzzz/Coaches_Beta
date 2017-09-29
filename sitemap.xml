@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.tonsser.com/coaches/v7/index.html</loc>
-    <lastmod>2017-09-28</lastmod>
+    <loc>http://www.tonsser.com/coaches/v8/index.html</loc>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.tonsser.com/coaches/v7/assets/phone_1mbps_001.mp4</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.tonsser.com/coaches/v7/assets/def_001.jpg</loc>
-    <lastmod>2017-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.tonsser.com/coaches/v8/images/tonsser_large_wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tonsser.com/coaches/v8/images/clubs.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tonsser.com/coaches/v8/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.tonsser.com/coaches/v8/images/footer_mobile.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
