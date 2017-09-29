@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v8" resolutions="1x" timestamp="1506679387420">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v8" resolutions="1x" timestamp="1506681608431">
   <folder name="css">
     <file name="site_global.css" crc="3760054287"/>
-    <file name="master_a-master.css" crc="3804043131" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4111842754" ref="index"/>
-    <file name="index.css" crc="34870712" ref="index"/>
-    <file name="nomq_index.css" crc="534241257" ref="index"/>
+    <file name="master_a-master.css" crc="3974240422" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
+    <file name="index.css" crc="4269097027" ref="index"/>
+    <file name="nomq_index.css" crc="4024685611" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -28,7 +28,6 @@
   </folder>
   <folder name="images">
     <file name="tonsser_large_wht.png" crc="46082529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -280,5 +279,5 @@
     <file name="u13289-44.png" crc="340285489" ref="index"/>
     <file name="u13290-44.png" crc="144418858" ref="index"/>
   </folder>
-  <file name="index.html" crc="408897520" seo="true" mt="1506679378941" redirect="true"/>
+  <file name="index.html" crc="3860897888" seo="true" mt="1506681585712" redirect="true"/>
 </manifest>
