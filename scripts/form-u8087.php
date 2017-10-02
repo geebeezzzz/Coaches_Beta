@@ -50,15 +50,6 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U8102' => array(
-			'order' => 5,
-			'type' => 'string',
-			'label' => 'Message',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Message\' is required.'
-			)
-		),
 		'custom_U8097' => array(
 			'order' => 3,
 			'type' => 'string',
@@ -77,12 +68,28 @@ $form = array(
 			)
 		),
 		'custom_U11506' => array(
-			'order' => 6,
+			'order' => 5,
 			'type' => 'string',
 			'label' => 'Custom',
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Custom\' is required.'
+			)
+		),
+		'custom_U14757' => array(
+			'order' => 6,
+			'type' => 'string',
+			'label' => 'Custom',
+			'required' => false,
+			'errors' => array(
+			)
+		),
+		'custom_U14796' => array(
+			'order' => 7,
+			'type' => 'string',
+			'label' => 'Message',
+			'required' => false,
+			'errors' => array(
 			)
 		)
 	)
