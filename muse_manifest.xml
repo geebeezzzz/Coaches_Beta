@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v10" resolutions="1x" timestamp="1506942057683">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v10" resolutions="1x" timestamp="1506948614752">
   <folder name="css">
     <file name="site_global.css" crc="226067242"/>
     <file name="master_a-master.css" crc="69989644" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="4205610285" ref="index"/>
-    <file name="nomq_index.css" crc="4244772065" ref="index"/>
+    <file name="index.css" crc="4002162190" ref="index"/>
+    <file name="nomq_index.css" crc="4142597843" ref="index"/>
     <file name="iefonts_index.css" crc="183650973" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -230,14 +230,6 @@
     <file name="footer_mobile.jpg" crc="114746314" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u14078.png" crc="188377139" ref="index"/>
-    <file name="u14078-r.png" crc="188377139" ref="index"/>
-    <file name="u140782.png" crc="188377139" ref="index"/>
-    <file name="u14078-r2.png" crc="188377139" ref="index"/>
-    <file name="u140783.png" crc="188377139" ref="index"/>
-    <file name="u14078-r3.png" crc="188377139" ref="index"/>
-    <file name="u140784.png" crc="188377139" ref="index"/>
-    <file name="u14078-r4.png" crc="188377139" ref="index"/>
   </folder>
-  <file name="index.html" crc="226788097" seo="true" mt="1506942056651" redirect="true"/>
+  <file name="index.html" crc="3818861569" seo="true" mt="1506948613594" redirect="true"/>
 </manifest>
