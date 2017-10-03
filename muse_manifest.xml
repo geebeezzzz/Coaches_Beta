@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v12" resolutions="1x" timestamp="1507059519898">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v12" resolutions="1x" timestamp="1507060201748">
   <folder name="css">
     <file name="site_global.css" crc="164500979"/>
     <file name="master_a-master.css" crc="4084887748" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="4184926446" ref="index"/>
+    <file name="index.css" crc="193426025" ref="index"/>
     <file name="nomq_index.css" crc="3819956477" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -49,12 +49,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen_3.jpg" crc="4118789438" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="team page2.jpg" crc="438440727" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -114,9 +108,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="show 4 stars 2.jpg" crc="200877636" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="screen_6.jpg" crc="437895299" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -169,6 +160,15 @@
     <file name="footer_mobile.jpg" crc="114746314" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="teampage2.jpg" crc="438440727" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="show4stars2.jpg" crc="200877636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4000773188" seo="true" mt="1507059463923" redirect="true"/>
+  <file name="index.html" crc="107939048" seo="true" mt="1507060196169" redirect="true"/>
 </manifest>
