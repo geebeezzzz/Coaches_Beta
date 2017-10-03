@@ -58,17 +58,8 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U8089' => array(
-			'order' => 4,
-			'type' => 'string',
-			'label' => 'Cell Phone',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Cell Phone\' is required.'
-			)
-		),
 		'custom_U11506' => array(
-			'order' => 5,
+			'order' => 4,
 			'type' => 'string',
 			'label' => 'Custom',
 			'required' => true,
@@ -84,12 +75,13 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U14796' => array(
-			'order' => 7,
+		'custom_U14956' => array(
+			'order' => 5,
 			'type' => 'string',
-			'label' => 'Message',
-			'required' => false,
+			'label' => 'Custom',
+			'required' => true,
 			'errors' => array(
+				'required' => 'Field \'Custom\' is required.'
 			)
 		)
 	)
