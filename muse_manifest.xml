@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v11" resolutions="1x" timestamp="1506977346958">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v11" resolutions="1x" timestamp="1507018387391">
   <folder name="css">
     <file name="site_global.css" crc="226067242"/>
-    <file name="master_a-master.css" crc="4190689087" ref="index"/>
+    <file name="master_a-master.css" crc="4149243933" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="185421018" ref="index"/>
-    <file name="nomq_index.css" crc="120705136" ref="index"/>
+    <file name="index.css" crc="471482504" ref="index"/>
+    <file name="nomq_index.css" crc="396345118" ref="index"/>
     <file name="iefonts_index.css" crc="183650973" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -71,7 +71,7 @@
     <file name="u12630-a.png" crc="3781830347" ref="index"/>
     <file name="u12636.png" crc="388954437" ref="index"/>
     <file name="u12636-a.png" crc="365224846" ref="index"/>
-    <file name="u12634.png" crc="363576466" ref="index"/>
+    <file name="u12634.png" crc="516171168" ref="index"/>
     <file name="u12634-a.png" crc="4040340017" ref="index"/>
     <file name="u12632.png" crc="192137944" ref="index"/>
     <file name="u12632-a.png" crc="3837570249" ref="index"/>
@@ -229,7 +229,7 @@
     <file name="u126364.png" crc="388954437" ref="index"/>
     <file name="u12636-a4.png" crc="365224846" ref="index"/>
     <file name="u126344.png" crc="363576466" ref="index"/>
-    <file name="u12634-a4.png" crc="91661648" ref="index"/>
+    <file name="u12634-a4.png" crc="441656051" ref="index"/>
     <file name="u126324.png" crc="192137944" ref="index"/>
     <file name="u12632-a4.png" crc="3837570249" ref="index"/>
     <file name="u6974-44.png" crc="4076280260" ref="index"/>
@@ -254,5 +254,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="96175257" seo="true" mt="1506977345656" redirect="true"/>
+  <file name="index.html" crc="4259929880" seo="true" mt="1507018385938" redirect="true"/>
 </manifest>
