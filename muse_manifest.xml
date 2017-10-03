@@ -1,0 +1,174 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v12" resolutions="1x" timestamp="1507059519898">
+  <folder name="css">
+    <file name="site_global.css" crc="164500979"/>
+    <file name="master_a-master.css" crc="4084887748" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
+    <file name="index.css" crc="4184926446" ref="index"/>
+    <file name="nomq_index.css" crc="3819956477" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u8087.php" crc="4245812672" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u13481_states.png" crc="287596572" ref="index"/>
+    <file name="u13481_states-r.png" crc="286770805" ref="index"/>
+    <file name="226a5106.jpg" crc="432115185" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="front1.png" crc="146756944" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="activity_feedback_001.jpg" crc="3811390101" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen_3.jpg" crc="4118789438" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team page2.jpg" crc="438440727" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike.jpg" crc="4094146944" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clubs.jpg" crc="3971983991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coach_001.jpg" crc="47742170" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="review_4.jpg" crc="174427258" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6974-4.png" crc="3864922087" ref="index"/>
+    <file name="review_5.jpg" crc="419684389" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6967-4.png" crc="3864922087" ref="index"/>
+    <file name="review_3.jpg" crc="4273633316" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14274-4.png" crc="3864922087" ref="index"/>
+    <file name="review_6.jpg" crc="4241901191" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14328-4.png" crc="3864922087" ref="index"/>
+    <file name="review_7.jpg" crc="353224996" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14444-4.png" crc="3864922087" ref="index"/>
+    <file name="screen_9.jpg" crc="4164009344" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="show 4 stars 2.jpg" crc="200877636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen_6.jpg" crc="437895299" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="feed.jpg" crc="182423582" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="training_001.jpg" crc="4143068871" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer.jpg" crc="92652731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tonsser_large_wht.png" crc="46082529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6974-42.png" crc="3864922087" ref="index"/>
+    <file name="u6967-42.png" crc="3864922087" ref="index"/>
+    <file name="u14274-42.png" crc="3864922087" ref="index"/>
+    <file name="u14328-42.png" crc="3864922087" ref="index"/>
+    <file name="u14444-42.png" crc="3864922087" ref="index"/>
+    <file name="training_001-u8086-fr.jpg" crc="3987102450" ref="index"/>
+    <file name="clubs_mobile_small.jpg" crc="4242281395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coach_001-u6944-fr.jpg" crc="207905947" ref="index"/>
+    <file name="u6974-43.png" crc="3864922087" ref="index"/>
+    <file name="u6967-43.png" crc="3864922087" ref="index"/>
+    <file name="u14274-43.png" crc="3864922087" ref="index"/>
+    <file name="u14328-43.png" crc="3864922087" ref="index"/>
+    <file name="u14444-43.png" crc="3864922087" ref="index"/>
+    <file name="training_001-u8086-fr2.jpg" crc="470594101" ref="index"/>
+    <file name="226a5106-u1501-fr.jpg" crc="231186856" ref="index"/>
+    <file name="u6974-44.png" crc="4076280260" ref="index"/>
+    <file name="u6967-44.png" crc="4076280260" ref="index"/>
+    <file name="u14274-44.png" crc="4076280260" ref="index"/>
+    <file name="u14328-44.png" crc="4076280260" ref="index"/>
+    <file name="u14444-44.png" crc="4076280260" ref="index"/>
+    <file name="training_001-u8086-fr3.jpg" crc="3914743527" ref="index"/>
+    <file name="footer_mobile.jpg" crc="114746314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4000773188" seo="true" mt="1507059463923" redirect="true"/>
+</manifest>
