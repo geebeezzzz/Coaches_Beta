@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v12" resolutions="1x" timestamp="1507060201748">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v12" resolutions="1x" timestamp="1507061349366">
   <folder name="css">
     <file name="site_global.css" crc="164500979"/>
-    <file name="master_a-master.css" crc="4084887748" ref="index"/>
+    <file name="master_a-master.css" crc="35953133" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="193426025" ref="index"/>
-    <file name="nomq_index.css" crc="3819956477" ref="index"/>
+    <file name="index.css" crc="4111509527" ref="index"/>
+    <file name="nomq_index.css" crc="157880519" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -170,5 +170,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="107939048" seo="true" mt="1507060196169" redirect="true"/>
+  <file name="index.html" crc="3824053688" seo="true" mt="1507061343565" redirect="true"/>
 </manifest>
