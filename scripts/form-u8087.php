@@ -59,7 +59,7 @@ $form = array(
 			)
 		),
 		'custom_U11506' => array(
-			'order' => 4,
+			'order' => 6,
 			'type' => 'string',
 			'label' => 'Custom',
 			'required' => true,
@@ -68,7 +68,7 @@ $form = array(
 			)
 		),
 		'custom_U14757' => array(
-			'order' => 6,
+			'order' => 5,
 			'type' => 'string',
 			'label' => 'Custom',
 			'required' => false,
@@ -76,7 +76,16 @@ $form = array(
 			)
 		),
 		'custom_U14956' => array(
-			'order' => 5,
+			'order' => 7,
+			'type' => 'string',
+			'label' => 'Custom',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Custom\' is required.'
+			)
+		),
+		'custom_U15105' => array(
+			'order' => 4,
 			'type' => 'string',
 			'label' => 'Custom',
 			'required' => true,

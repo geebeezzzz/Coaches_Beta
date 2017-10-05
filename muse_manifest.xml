@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v12" resolutions="1x" timestamp="1507061349366">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v13" resolutions="1x" timestamp="1507190306539">
   <folder name="css">
     <file name="site_global.css" crc="164500979"/>
-    <file name="master_a-master.css" crc="35953133" ref="index"/>
+    <file name="master_a-master.css" crc="410749159" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="4111509527" ref="index"/>
-    <file name="nomq_index.css" crc="157880519" ref="index"/>
+    <file name="index.css" crc="3986921936" ref="index"/>
+    <file name="nomq_index.css" crc="3877328587" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,7 +20,7 @@
     <file name="form_check.php" crc="4110044762" ref="index"/>
     <file name="form_throttle.php" crc="22190333" ref="index"/>
     <file name="form_process.php" crc="257545537" ref="index"/>
-    <file name="form-u8087.php" crc="4245812672" ref="index"/>
+    <file name="form-u8087.php" crc="298197549" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
@@ -49,6 +49,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen_3.jpg" crc="4118789438" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teampage2.jpg" crc="438440727" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -108,10 +114,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen_6.jpg" crc="437895299" ref="index">
+    <file name="show4stars2.jpg" crc="200877636" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motm.jpg" crc="392686607" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="feed.jpg" crc="182423582" ref="index">
@@ -160,15 +166,6 @@
     <file name="footer_mobile.jpg" crc="114746314" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="teampage2.jpg" crc="438440727" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="show4stars2.jpg" crc="200877636" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="3824053688" seo="true" mt="1507061343565" redirect="true"/>
+  <file name="index.html" crc="326941284" seo="true" mt="1507190300060" redirect="true"/>
 </manifest>
