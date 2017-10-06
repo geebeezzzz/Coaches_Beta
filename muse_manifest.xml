@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v16" resolutions="1x" timestamp="1507299422948">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v16" resolutions="1x" timestamp="1507300729196">
   <folder name="css">
     <file name="site_global.css" crc="460955697"/>
-    <file name="master_a-master.css" crc="3780685821" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4094164845" ref="index"/>
-    <file name="index.css" crc="270201186" ref="index"/>
-    <file name="nomq_index.css" crc="3958184374" ref="index"/>
+    <file name="master_a-master.css" crc="375513748" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="386339866" ref="index"/>
+    <file name="index.css" crc="459058815" ref="index"/>
+    <file name="nomq_index.css" crc="3820636104" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -39,8 +39,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u13481_states.png" crc="3818178265" ref="index"/>
-    <file name="u13481_states-r.png" crc="102851060" ref="index"/>
+    <file name="u13481_states.png" crc="507852435" ref="index"/>
+    <file name="u13481_states-r.png" crc="4037008626" ref="index"/>
     <file name="front1.png" crc="146756944" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -162,5 +162,5 @@
     <file name="u14444-44.png" crc="4076280260" ref="index"/>
     <file name="training_001-u8086-fr3.jpg" crc="3914743527" ref="index"/>
   </folder>
-  <file name="index.html" crc="3965364769" seo="true" mt="1507299367244" redirect="true"/>
+  <file name="index.html" crc="338734850" seo="true" mt="1507300578072" redirect="true"/>
 </manifest>
