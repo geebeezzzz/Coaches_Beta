@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v15" resolutions="1x" timestamp="1507293364072">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v16" resolutions="1x" timestamp="1507299422948">
   <folder name="css">
-    <file name="site_global.css" crc="164500979"/>
-    <file name="master_a-master.css" crc="242953287" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4229877173" ref="index"/>
-    <file name="index.css" crc="4206125658" ref="index"/>
-    <file name="nomq_index.css" crc="78098585" ref="index"/>
+    <file name="site_global.css" crc="460955697"/>
+    <file name="master_a-master.css" crc="3780685821" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4094164845" ref="index"/>
+    <file name="index.css" crc="270201186" ref="index"/>
+    <file name="nomq_index.css" crc="3958184374" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -26,12 +26,21 @@
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u13481_states.png" crc="3818178265" ref="index"/>
-    <file name="u13481_states-r.png" crc="102851060" ref="index"/>
+    <file name="tonsser_large_wht.png" crc="46082529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="226a5106.jpg" crc="432115185" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u13481_states.png" crc="3818178265" ref="index"/>
+    <file name="u13481_states-r.png" crc="102851060" ref="index"/>
     <file name="front1.png" crc="146756944" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -129,16 +138,6 @@
     <file name="training_001.jpg" crc="4143068871" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="footer.jpg" crc="92652731" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tonsser_large_wht.png" crc="46082529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u6974-42.png" crc="3864922087" ref="index"/>
     <file name="u6967-42.png" crc="3864922087" ref="index"/>
     <file name="u14274-42.png" crc="3864922087" ref="index"/>
@@ -156,16 +155,12 @@
     <file name="u14328-43.png" crc="3864922087" ref="index"/>
     <file name="u14444-43.png" crc="3864922087" ref="index"/>
     <file name="training_001-u8086-fr2.jpg" crc="470594101" ref="index"/>
-    <file name="226a5106-u1501-fr.jpg" crc="231186856" ref="index"/>
     <file name="u6974-44.png" crc="4076280260" ref="index"/>
     <file name="u6967-44.png" crc="4076280260" ref="index"/>
     <file name="u14274-44.png" crc="4076280260" ref="index"/>
     <file name="u14328-44.png" crc="4076280260" ref="index"/>
     <file name="u14444-44.png" crc="4076280260" ref="index"/>
     <file name="training_001-u8086-fr3.jpg" crc="3914743527" ref="index"/>
-    <file name="footer_mobile.jpg" crc="114746314" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="81274990" seo="true" mt="1507293324364" redirect="true"/>
+  <file name="index.html" crc="3965364769" seo="true" mt="1507299367244" redirect="true"/>
 </manifest>
