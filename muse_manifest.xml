@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v16" resolutions="1x" timestamp="1507301108660">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v17" resolutions="1x" timestamp="1507541331340">
   <folder name="css">
-    <file name="site_global.css" crc="460955697"/>
-    <file name="master_a-master.css" crc="375513748" ref="index"/>
+    <file name="site_global.css" crc="286094472"/>
+    <file name="master_a-master.css" crc="3975427274" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="386339866" ref="index"/>
-    <file name="index.css" crc="459058815" ref="index"/>
-    <file name="nomq_index.css" crc="3820636104" ref="index"/>
+    <file name="index.css" crc="104299974" ref="index"/>
+    <file name="nomq_index.css" crc="3792918745" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -26,6 +26,7 @@
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="317588078" ref="index"/>
     <file name="tonsser_large_wht.png" crc="46082529" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -96,7 +97,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u6967-4.png" crc="3864922087" ref="index"/>
-    <file name="review_3.jpg" crc="4273633316" ref="index">
+    <file name="review_8.jpg" crc="3824107007" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -161,7 +162,6 @@
     <file name="u14328-44.png" crc="4076280260" ref="index"/>
     <file name="u14444-44.png" crc="4076280260" ref="index"/>
     <file name="training_001-u8086-fr3.jpg" crc="3914743527" ref="index"/>
-    <file name="favicon.ico" crc="317588078" ref="index"/>
   </folder>
-  <file name="index.html" crc="4284884127" seo="true" mt="1507301089618" redirect="true"/>
+  <file name="index.html" crc="3988331143" seo="true" mt="1507541325716" redirect="true"/>
 </manifest>
