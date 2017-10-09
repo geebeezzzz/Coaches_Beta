@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v17" resolutions="1x" timestamp="1507541331340">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tonsser.com/coaches/v17" resolutions="1x" timestamp="1507542654390">
   <folder name="css">
     <file name="site_global.css" crc="286094472"/>
     <file name="master_a-master.css" crc="3975427274" ref="index"/>
@@ -163,5 +163,5 @@
     <file name="u14444-44.png" crc="4076280260" ref="index"/>
     <file name="training_001-u8086-fr3.jpg" crc="3914743527" ref="index"/>
   </folder>
-  <file name="index.html" crc="3988331143" seo="true" mt="1507541325716" redirect="true"/>
+  <file name="index.html" crc="443701884" seo="true" mt="1507542630057" redirect="true"/>
 </manifest>
